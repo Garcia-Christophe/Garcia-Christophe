@@ -1,23 +1,20 @@
-- 👋 Hi, I’m @Garcia-Christophe
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hey ! 👋
 
-(Écrire en français)
+Je suis Christophe Garcia, étudiant en DUT Informatique, option Développeur d'Applications, à [Vannes](https://www.iutvannes.fr/).
 
-<!---
-Garcia-Christophe/Garcia-Christophe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Passionné par le développement logiciel, d'applications web et mobiles, je développe des projets pour découvrir différents domaines, apprendre, et apprécier tout simplement. 😃
 
+## 📈 Stats GitHub
 
-# Stats GitHub
+<a href="https://github-readme-stats.vercel.app/api?username=Garcia-Christophe&show_icons=true&theme=vue-dark">
+  <img align="bottom" src="https://github-readme-stats.vercel.app/api?username=Garcia-Christophe&show_icons=true&theme=vue-dark" />
+</a>
 
-![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=Garcia-Christophe&show_icons=true&theme=vue-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Garcia-Christophe&layout=compact&theme=vue-dark)
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Garcia-Christophe&layout=compact&theme=vue-dark">
+  <img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garcia-Christophe&layout=compact&theme=vue-dark" />
+</a>
 
-# Projets en cours
+## 💻 Projets en cours
 
 <a href="https://github.com/Garcia-Christophe/MesStocks">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Garcia-Christophe&repo=MesStocks&theme=vue-dark" />
@@ -27,7 +24,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Garcia-Christophe&repo=WereWolf&theme=vue-dark" />
 </a>
 
-# Mes projets
+## 📚 Mes projets
 
 <a href="https://github.com/Garcia-Christophe/MesStocks">
   <img align="center" src="https://assets.gitlab-static.net/uploads/-/system/project/avatar/25979562/logo.png?width=90" />
