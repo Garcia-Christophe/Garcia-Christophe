@@ -2,7 +2,7 @@
 
 Je suis Christophe Garcia, étudiant en DUT Informatique, option Développeur d'Applications, à [Vannes](https://www.iutvannes.fr/).
 
-Passionné par le développement logiciel, d'applications web et mobiles, je développe des projets pour découvrir différents domaines, apprendre, et apprécier tout simplement. 😃
+Passionné par le développement logiciel, d'applications web et mobiles, je développe des projets pour découvrir différents domaines, apprendre, et apprécier tout simplement ! 😃
 
 ## 📈 Stats GitHub
 
