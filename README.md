@@ -21,6 +21,10 @@ Passionné par le développement logiciel, d'applications web et mobiles, je dé
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Garcia-Christophe&repo=MesStocks&theme=vue-dark" />
 </a>
 
+<a href="https://github.com/Garcia-Christophe/Chat-Botte">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Garcia-Christophe&repo=Chat-Botte&theme=vue-dark" />
+</a>
+
 <a href="https://github.com/Garcia-Christophe/WereWolf">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Garcia-Christophe&repo=WereWolf&theme=vue-dark" />
 </a>
@@ -67,6 +71,9 @@ Passionné par le développement logiciel, d'applications web et mobiles, je dé
 
 ## 📚 Mes projets
 
+<a href="https://github.com/Garcia-Christophe/Chat-Botte">
+  <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/27577096/Chat-Botte.png?width=64" />
+</a>
 <a href="https://github.com/Garcia-Christophe/MesStocks">
   <img align="center" src="https://assets.gitlab-static.net/uploads/-/system/project/avatar/25979562/logo.png?width=64" />
 </a>
