@@ -71,11 +71,11 @@ Passionné par le développement logiciel, d'applications web et mobiles, je dé
 
 ## 📚 Mes projets
 
-<a href="https://github.com/Garcia-Christophe/Chat-Botte">
-  <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/27577096/Chat-Botte.png?width=64" />
-</a>
 <a href="https://github.com/Garcia-Christophe/MesStocks">
   <img align="center" src="https://assets.gitlab-static.net/uploads/-/system/project/avatar/25979562/logo.png?width=64" />
+</a>
+<a href="https://github.com/Garcia-Christophe/Chat-Botte">
+  <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/27577096/Chat-Botte.png?width=64" />
 </a>
 <a href="https://github.com/Garcia-Christophe/Rosetta">
   <img align="center" src="https://assets.gitlab-static.net/uploads/-/system/project/avatar/21856436/logo.png?width=64" />
