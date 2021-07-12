@@ -15,16 +15,11 @@ Passionné par le développement logiciel, d'applications web et mobiles, je dé
   <img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garcia-Christophe&layout=compact&theme=vue-dark" />
 </a>
 
-## ✏ Projets en cours
+## ✏ Projet(s) en cours
 
 <a href="https://github.com/Garcia-Christophe/MesStocks">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Garcia-Christophe&repo=MesStocks&theme=vue-dark" />
 </a>
-
-<a href="https://github.com/Garcia-Christophe/WereWolf">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Garcia-Christophe&repo=WereWolf&theme=vue-dark" />
-</a>
-
 
 ## 💻 Langages et autres
 
