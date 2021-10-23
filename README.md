@@ -67,7 +67,7 @@ Passionné par le développement logiciel, d'applications web et mobiles, je dé
 ## 📚 Mes projets
 
 <a href="https://github.com/Garcia-Christophe/Universites">
-  <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/30255529/logo.png?width=64" />
+  <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/30706453/logo.png?width=64" />
 </a>
 <a href="https://github.com/Garcia-Christophe/MesStocks">
   <img align="center" src="https://assets.gitlab-static.net/uploads/-/system/project/avatar/25979562/logo.png?width=64" />
