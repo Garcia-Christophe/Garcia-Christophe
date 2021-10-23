@@ -21,10 +21,6 @@ Passionné par le développement logiciel, d'applications web et mobiles, je dé
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Garcia-Christophe&repo=MesStocks&theme=vue-dark" />
 </a>
 
-<a href="https://github.com/Garcia-Christophe/Universites">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Garcia-Christophe&repo=Universites&theme=vue-dark" />
-</a>
-
 ## 💻 Langages et autres
 
 - ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
@@ -66,9 +62,6 @@ Passionné par le développement logiciel, d'applications web et mobiles, je dé
 
 ## 📚 Mes projets
 
-<a href="https://github.com/Garcia-Christophe/Universites">
-  <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/30706453/logo.png?width=64" />
-</a>
 <a href="https://github.com/Garcia-Christophe/MesStocks">
   <img align="center" src="https://assets.gitlab-static.net/uploads/-/system/project/avatar/25979562/logo.png?width=64" />
 </a>
