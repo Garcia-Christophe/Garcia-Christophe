@@ -67,10 +67,10 @@ Passionné par le développement logiciel, d'applications web et mobiles, je dé
 ## 📚 Mes projets
 
 <a href="https://github.com/Garcia-Christophe/Follow">
-  <img align="center" src="https://user-images.githubusercontent.com/74927492/144752194-8c0ce7a1-b825-4685-ad1d-a74e4726b076.png" />
+  <img align="center" src="https://user-images.githubusercontent.com/74927492/144754460-85d151c0-0dfa-4dea-b238-6ae67ca2f246.png" />
 </a>
 <a href="https://github.com/Garcia-Christophe/Borne-Recharge">
-  <img align="center" src="https://user-images.githubusercontent.com/74927492/144752168-1f61553f-0637-4917-ad59-94d62a800b57.png" />
+  <img align="center" src="https://user-images.githubusercontent.com/74927492/144754582-84f14f75-e3a8-4840-8cfc-161eace88d56.png" />
 </a>
 <a href="https://github.com/Garcia-Christophe/Universites">
   <img align="center" src="https://user-images.githubusercontent.com/74927492/138565823-143e5ade-4118-41a8-b049-d41b27f50854.png" />
