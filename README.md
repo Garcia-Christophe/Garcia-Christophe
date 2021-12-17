@@ -81,9 +81,6 @@ Passionné par le développement logiciel, d'applications web et mobiles, je dé
 <a href="https://github.com/Garcia-Christophe/Chat-Botte">
   <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/27577096/Chat-Botte.png?width=64" />
 </a>
-<a href="https://github.com/Garcia-Christophe/Rosetta">
-  <img align="center" src="https://assets.gitlab-static.net/uploads/-/system/project/avatar/21856436/logo.png?width=64" />
-</a>
 <a href="https://github.com/Garcia-Christophe/NavalBattle">
   <img align="center" src="https://assets.gitlab-static.net/uploads/-/system/project/avatar/26005963/logo.png?width=64" />
 </a>
