@@ -21,8 +21,8 @@ Passionné par le développement logiciel, d'applications web et mobiles, je dé
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Garcia-Christophe&repo=MesStocks&theme=vue-dark" />
 </a>
 
-<a href="https://github.com/Garcia-Christophe/Universites">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Garcia-Christophe&repo=Universites&theme=vue-dark" />
+<a href="https://github.com/Garcia-Christophe/Borne-Recharge">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Garcia-Christophe&repo=Borne-Recharge&theme=vue-dark" />
 </a>
 
 ## 💻 Langages et autres
@@ -33,7 +33,6 @@ Passionné par le développement logiciel, d'applications web et mobiles, je dé
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
 
@@ -55,17 +54,18 @@ Passionné par le développement logiciel, d'applications web et mobiles, je dé
 ![](https://img.shields.io/badge/Environnement-IntelliJIDEA-informational?style=flat&logoColor=white&color=2bbc8a)
 
 - ![](https://img.shields.io/badge/Outil-Git-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Outil-Méthode%20Agile-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Outil-GitHub-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Outil-GitLab-informational?style=flat&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Outil-Chrome-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Outil-Gantt-informational?style=flat&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Outil-Excel-informational?style=flat&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Outil-Word-informational?style=flat&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Outil-PowerPoint-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Outil-Suite%20Office-informational?style=flat&logoColor=white&color=2bbc8a)
 
 
 ## 📚 Mes projets
 
+<a href="https://github.com/Garcia-Christophe/Conception-application">
+  <img align="center" src="https://user-images.githubusercontent.com/74927492/144754460-85d151c0-0dfa-4dea-b238-6ae67ca2f246.png" />
+</a>
 <a href="https://github.com/Garcia-Christophe/Follow">
   <img align="center" src="https://user-images.githubusercontent.com/74927492/144754460-85d151c0-0dfa-4dea-b238-6ae67ca2f246.png" />
 </a>
