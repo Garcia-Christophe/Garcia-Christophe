@@ -60,11 +60,10 @@ Passionné par le développement logiciel, d'applications web et mobiles, je dé
 ![](https://img.shields.io/badge/Outil-Gantt-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Outil-Suite%20Office-informational?style=flat&logoColor=white&color=2bbc8a)
 
-
 ## 📚 Mes projets
 
 <a href="https://github.com/Garcia-Christophe/Conception-application">
-  <img align="center" src="https://user-images.githubusercontent.com/74927492/144754460-85d151c0-0dfa-4dea-b238-6ae67ca2f246.png" />
+  <img align="center" src="https://user-images.githubusercontent.com/74927492/152026768-29c65bd3-e9e8-40ea-8049-06b105820c58.png" />
 </a>
 <a href="https://github.com/Garcia-Christophe/Follow">
   <img align="center" src="https://user-images.githubusercontent.com/74927492/144754460-85d151c0-0dfa-4dea-b238-6ae67ca2f246.png" />
