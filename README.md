@@ -21,10 +21,6 @@ Passionné par le développement logiciel, d'applications web et mobiles, je dé
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Garcia-Christophe&repo=MesStocks&theme=vue-dark" />
 </a>
 
-<a href="https://github.com/Garcia-Christophe/Borne-Recharge">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Garcia-Christophe&repo=Borne-Recharge&theme=vue-dark" />
-</a>
-
 ## 💻 Langages et autres
 
 - ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
@@ -62,6 +58,9 @@ Passionné par le développement logiciel, d'applications web et mobiles, je dé
 
 ## 📚 Mes projets
 
+<a href="https://github.com/Garcia-Christophe/FTP-Client-Serveur">
+  <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/34181107/MyFTP2.png?width=64" />
+</a>
 <a href="https://github.com/Garcia-Christophe/Conception-application">
   <img align="center" src="https://user-images.githubusercontent.com/74927492/152026768-29c65bd3-e9e8-40ea-8049-06b105820c58.png" />
 </a>
