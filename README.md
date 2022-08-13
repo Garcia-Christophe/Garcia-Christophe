@@ -1,6 +1,6 @@
 # Hey ! 👋
 
-Je suis Christophe Garcia, étudiant en Licence 3 Ingénierie Informatique à l'[UBO](https://www.univ-brest.fr/departement-informatique/) à Brest. Anciennement à l'[IUT](https://www.iutvannes.fr/), département Informatique, de Vannes (option Développeur d'Applications).
+Je suis Christophe Garcia, étudiant en Master Technologies de l'Information et Ingénierie Logicielle à l'[UBO](https://www.univ-brest.fr/departement-informatique/) à Brest. Anciennement à l'[IUT](https://www.iutvannes.fr/), département Informatique, de Vannes (option Développeur d'Applications) puis en L3 Ingénierie Informatique à l'UBO.
 
 Passionné par le développement logiciel, d'applications web et mobiles, je développe des projets pour découvrir différents domaines, apprendre, et apprécier tout simplement ! 😃
 
@@ -23,8 +23,8 @@ Passionné par le développement logiciel, d'applications web et mobiles, je dé
 
 ## 💻 Langages et autres
 
-- ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
+- ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=2bbc8a)
