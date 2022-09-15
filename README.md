@@ -1,6 +1,6 @@
 # Hey ! 👋
 
-Je suis Christophe Garcia, étudiant en Master Technologies de l'Information et Ingénierie Logicielle à l'[UBO](https://www.univ-brest.fr/departement-informatique/) à Brest. Anciennement à l'[IUT](https://www.iutvannes.fr/), département Informatique, de Vannes (option Développeur d'Applications) puis en L3 Ingénierie Informatique à l'UBO.
+Je suis Christophe Garcia, étudiant en Master Technologies de l'Information et Ingénierie du Logiciel à l'[UBO](https://www.univ-brest.fr/departement-informatique/) à Brest. Anciennement à l'[IUT](https://www.iutvannes.fr/), département Informatique, de Vannes (option Développeur d'Applications) puis en L3 Ingénierie Informatique à l'UBO.
 
 Passionné par le développement logiciel, d'applications web et mobiles, je développe des projets pour découvrir différents domaines, apprendre, et apprécier tout simplement ! 😃
 
@@ -25,12 +25,12 @@ Passionné par le développement logiciel, d'applications web et mobiles, je dé
 
 - ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
 
 - ![](https://img.shields.io/badge/Librairie-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-ReactNative-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
@@ -55,6 +55,7 @@ Passionné par le développement logiciel, d'applications web et mobiles, je dé
 ![](https://img.shields.io/badge/Outil-GitLab-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Outil-Gantt-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Outil-Suite%20Office-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Outil-Suite%20Google-informational?style=flat&logoColor=white&color=2bbc8a)
 
 ## 📚 Mes projets
 
