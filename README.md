@@ -1,6 +1,6 @@
 # Hey ! 👋
 
-Je suis Christophe Garcia, étudiant en Master Technologies de l'Information et Ingénierie du Logiciel à l'[UBO](https://www.univ-brest.fr/departement-informatique/) à Brest. Anciennement à l'[IUT](https://www.iutvannes.fr/), département Informatique, de Vannes (option Développeur d'Applications) puis en L3 Ingénierie Informatique à l'UBO.
+Je suis Christophe Garcia, étudiant en Master Technologies de l'Information et Ingénierie du Logiciel par Alternance à l'[UBO](https://www.univ-brest.fr/departement-informatique/) à Brest. Anciennement à l'[IUT](https://www.iutvannes.fr/), département Informatique, de Vannes (option Développeur d'Applications) puis en L3 Ingénierie Informatique à l'UBO.
 
 Passionné par le développement logiciel, d'applications web et mobiles, je développe des projets pour découvrir différents domaines, apprendre, et apprécier tout simplement ! 😃
 
@@ -50,7 +50,7 @@ Passionné par le développement logiciel, d'applications web et mobiles, je dé
 ![](https://img.shields.io/badge/Environnement-IntelliJIDEA-informational?style=flat&logoColor=white&color=2bbc8a)
 
 - ![](https://img.shields.io/badge/Outil-Git-informational?style=flat&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Outil-Méthode%20Agile-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Outil-Méthode%20Agile%20Scrum-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Outil-GitHub-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Outil-GitLab-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Outil-Gantt-informational?style=flat&logoColor=white&color=2bbc8a)
