@@ -60,7 +60,7 @@ Passionné par le développement logiciel, d'applications web et mobiles, je dé
 ## 📚 Mes projets
 
 <a href="https://github.com/Garcia-Christophe/Find-A-Movie">
-  <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/42801882/logo.png?width=64" />
+  <img align="center" src="https://gitlab.com/G.Christophe/find-a-movie/-/blob/main/data/logo.png" />
 </a>
 <a href="https://github.com/Garcia-Christophe/FTP-Client-Serveur">
   <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/34181107/MyFTP2.png?width=64" />
@@ -102,8 +102,8 @@ Passionné par le développement logiciel, d'applications web et mobiles, je dé
   <img align="center" src="https://assets.gitlab-static.net/uploads/-/system/project/avatar/26005201/logo.png?width=64" />
 </a>
 <a href="https://github.com/Garcia-Christophe/Snake">
-  <img align="center" text-decoration:"none" src="https://assets.gitlab-static.net/uploads/-/system/project/avatar/26003921/snakeIcon.png?width=64" />
+  <img align="center" src="https://assets.gitlab-static.net/uploads/-/system/project/avatar/26003921/snakeIcon.png?width=64" />
 </a>
 <a href="https://github.com/Garcia-Christophe/Echecs">
-  <img align="center" text-decoration:"none" src="https://assets.gitlab-static.net/uploads/-/system/project/avatar/26002630/icon.png?width=64" />
+  <img align="center" src="https://assets.gitlab-static.net/uploads/-/system/project/avatar/26002630/icon.png?width=64" />
 </a>
