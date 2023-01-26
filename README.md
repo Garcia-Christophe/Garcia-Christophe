@@ -60,7 +60,7 @@ Passionné par le développement logiciel, d'applications web et mobiles, je dé
 ## 📚 Mes projets
 
 <a href="https://github.com/Garcia-Christophe/Find-A-Movie">
-  <img align="center" src="https://gitlab.com/G.Christophe/find-a-movie/-/blob/main/data/logo.png" />
+  <img align="center" src="https://user-images.githubusercontent.com/74927492/214922224-8db4a62b-4743-47c8-b5a0-5efe1939ab91.png" style="width: 64px;" />
 </a>
 <a href="https://github.com/Garcia-Christophe/FTP-Client-Serveur">
   <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/34181107/MyFTP2.png?width=64" />
