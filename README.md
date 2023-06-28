@@ -59,6 +59,9 @@ Passionné par le développement logiciel, d'applications web et mobiles, je dé
 
 ## 📚 Mes projets
 
+<a href="https://github.com/Garcia-Christophe/VueJS-Decouverte">
+  <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/46966717/VueJS-Decouverte.png?width=64" />
+</a>
 <a href="https://github.com/Garcia-Christophe/Accar-Areno">
   <img align="center" src="https://user-images.githubusercontent.com/74927492/219374916-14de6390-224b-4f29-b4a3-8665b93bbb71.png" style="width: 64px;" />
 </a>
