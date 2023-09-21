@@ -2,7 +2,7 @@
 
 Je suis Christophe Garcia, étudiant en Master Technologies de l'Information et Ingénierie du Logiciel par Alternance à l'[UBO](https://www.univ-brest.fr/departement-informatique/) à Brest. Anciennement à l'[IUT](https://www.iutvannes.fr/), département Informatique, de Vannes (option Développeur d'Applications) puis en L3 Ingénierie Informatique à l'UBO.
 
-Passionné par le développement logiciel, d'applications web et mobiles, je développe des projets pour découvrir différents domaines, apprendre, et apprécier tout simplement ! 😃
+Passionné par le développement logiciel et d'applications web, je développe des projets pour découvrir différents domaines, apprendre, et apprécier tout simplement ! 😃
 
 
 ## 📈 Stats GitHub
@@ -17,9 +17,7 @@ Passionné par le développement logiciel, d'applications web et mobiles, je dé
 
 ## ✏ Projet(s) en cours
 
-<a href="https://github.com/Garcia-Christophe/MesStocks">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Garcia-Christophe&repo=MesStocks&theme=vue-dark" />
-</a>
+Coming soon...
 
 ## 💻 Langages et autres
 
@@ -29,18 +27,20 @@ Passionné par le développement logiciel, d'applications web et mobiles, je dé
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
 
 - ![](https://img.shields.io/badge/Librairie-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-ReactNative-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-VueJS-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CMS-WordPress-informational?style=flat&logo=WordPress&logoColor=white&color=2bbc8a)
 
 <br />
  
-- ![](https://img.shields.io/badge/Test-JUnit-informational?style=flat&logoColor=white&color=2bbc8a)
+- ![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Test-JUnit-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Test-Katalon-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Test-Selenium-informational?style=flat&logoColor=white&color=2bbc8a)
 
@@ -75,16 +75,16 @@ Passionné par le développement logiciel, d'applications web et mobiles, je dé
   <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/34181107/MyFTP2.png?width=64" />
 </a>
 <a href="https://github.com/Garcia-Christophe/Conception-application">
-  <img align="center" src="https://user-images.githubusercontent.com/74927492/152026768-29c65bd3-e9e8-40ea-8049-06b105820c58.png" />
+  <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/32700928/logo.png?width=64" />
 </a>
 <a href="https://github.com/Garcia-Christophe/Follow">
-  <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/31127659/logo.png?width=64" />
+  <img align="center" src="https://github.com/Garcia-Christophe/Garcia-Christophe/assets/74927492/add80a5d-8fc6-4482-af94-2007249c32ef" />
 </a>
 <a href="https://github.com/Garcia-Christophe/Borne-Recharge">
   <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/31835542/logoRond.png?width=64" />
 </a>
 <a href="https://github.com/Garcia-Christophe/Universites">
-  <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/30706453/logo.png?width=64" />
+  <img align="center" src="https://github.com/Garcia-Christophe/Garcia-Christophe/assets/74927492/1e214ae0-714c-4dfc-9658-8973d1f02acc" />
 </a>
 <a href="https://github.com/Garcia-Christophe/MesStocks">
   <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/25979562/logo.png?width=64" />
