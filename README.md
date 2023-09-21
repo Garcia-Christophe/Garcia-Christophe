@@ -17,7 +17,9 @@ Passionné par le développement logiciel et d'applications web, je développe d
 
 ## ✏ Projet(s) en cours
 
-Coming soon...
+<a href="https://github.com/Garcia-Christophe/WeatherApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Garcia-Christophe&repo=WeatherApp&theme=vue-dark" />
+</a>
 
 ## 💻 Langages et autres
 
