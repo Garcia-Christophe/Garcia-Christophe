@@ -62,11 +62,14 @@ Passionné par le développement logiciel, d'applications web et mobiles, je dé
 <a href="https://github.com/Garcia-Christophe/VueJS-Decouverte">
   <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/46966717/VueJS-Decouverte.png?width=64" />
 </a>
+<a href="https://github.com/Garcia-Christophe/TourGo">
+  <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/44074980/TourGo.png?width=64" />
+</a>
 <a href="https://github.com/Garcia-Christophe/Accar-Areno">
-  <img align="center" src="https://user-images.githubusercontent.com/74927492/219374916-14de6390-224b-4f29-b4a3-8665b93bbb71.png" style="width: 64px;" />
+  <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/43278724/AccarAreno.png?width=64" />
 </a>
 <a href="https://github.com/Garcia-Christophe/Find-A-Movie">
-  <img align="center" src="https://user-images.githubusercontent.com/74927492/214922224-8db4a62b-4743-47c8-b5a0-5efe1939ab91.png" style="width: 64px;" />
+  <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/42801882/logo.png?width=64" />
 </a>
 <a href="https://github.com/Garcia-Christophe/FTP-Client-Serveur">
   <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/34181107/MyFTP2.png?width=64" />
@@ -75,41 +78,41 @@ Passionné par le développement logiciel, d'applications web et mobiles, je dé
   <img align="center" src="https://user-images.githubusercontent.com/74927492/152026768-29c65bd3-e9e8-40ea-8049-06b105820c58.png" />
 </a>
 <a href="https://github.com/Garcia-Christophe/Follow">
-  <img align="center" src="https://user-images.githubusercontent.com/74927492/144754460-85d151c0-0dfa-4dea-b238-6ae67ca2f246.png" />
+  <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/31127659/logo.png?width=64" />
 </a>
 <a href="https://github.com/Garcia-Christophe/Borne-Recharge">
-  <img align="center" src="https://user-images.githubusercontent.com/74927492/144754582-84f14f75-e3a8-4840-8cfc-161eace88d56.png" />
+  <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/31835542/logoRond.png?width=64" />
 </a>
 <a href="https://github.com/Garcia-Christophe/Universites">
-  <img align="center" src="https://user-images.githubusercontent.com/74927492/138565823-143e5ade-4118-41a8-b049-d41b27f50854.png" />
+  <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/30706453/logo.png?width=64" />
 </a>
 <a href="https://github.com/Garcia-Christophe/MesStocks">
-  <img align="center" src="https://assets.gitlab-static.net/uploads/-/system/project/avatar/25979562/logo.png?width=64" />
+  <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/25979562/logo.png?width=64" />
 </a>
 <a href="https://github.com/Garcia-Christophe/Chat-Botte">
   <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/27577096/Chat-Botte.png?width=64" />
 </a>
 <a href="https://github.com/Garcia-Christophe/NavalBattle">
-  <img align="center" src="https://assets.gitlab-static.net/uploads/-/system/project/avatar/26005963/logo.png?width=64" />
+  <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/26005963/logo.png?width=64" />
 </a>
 <a href="https://github.com/Garcia-Christophe/TodoListe">
-  <img align="center" src="https://assets.gitlab-static.net/uploads/-/system/project/avatar/26006313/logo.png?width=64" />
+  <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/26006313/logo.png?width=64" />
 </a>
 <a href="https://github.com/Garcia-Christophe/TicTacToe">
-  <img align="center" src="https://assets.gitlab-static.net/uploads/-/system/project/avatar/26004928/logo.png?width=64" />
+  <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/26004928/logo.png?width=64" />
 </a>
 <a href="https://github.com/Garcia-Christophe/WereWolf">
-  <img align="center" src="https://assets.gitlab-static.net/uploads/-/system/project/avatar/26005788/logo.png?width=64" />
+  <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/26005788/logo.png?width=64" />
 </a>
 <a href="https://github.com/Garcia-Christophe/ZenGame">
-  <img align="center" src="https://assets.gitlab-static.net/uploads/-/system/project/avatar/26005528/logo.png?width=64" />
+  <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/26005528/logo.png?width=64" />
 </a>
 <a href="https://github.com/Garcia-Christophe/SeaBattle">
-  <img align="center" src="https://assets.gitlab-static.net/uploads/-/system/project/avatar/26005201/logo.png?width=64" />
+  <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/26005201/logo.png?width=64" />
 </a>
 <a href="https://github.com/Garcia-Christophe/Snake">
-  <img align="center" src="https://assets.gitlab-static.net/uploads/-/system/project/avatar/26003921/snakeIcon.png?width=64" />
+  <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/26003921/snakeIcon.png?width=64" />
 </a>
 <a href="https://github.com/Garcia-Christophe/Echecs">
-  <img align="center" src="https://assets.gitlab-static.net/uploads/-/system/project/avatar/26002630/icon.png?width=64" />
+  <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/26002630/icon.png?width=64" />
 </a>
