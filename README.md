@@ -59,6 +59,9 @@ Coming soon...
 
 ## 📚 Mes projets
 
+<a href="https://github.com/Garcia-Christophe/WeatherApp">
+  <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/50596910/WeatherApp.png?width=64" />
+</a>
 <a href="https://github.com/Garcia-Christophe/VueJS-Decouverte">
   <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/46966717/VueJS-Decouverte.png?width=64" />
 </a>
