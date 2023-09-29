@@ -21,6 +21,10 @@ Passionné par le développement logiciel et d'applications web, je développe d
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Garcia-Christophe&repo=WeatherApp&theme=vue-dark" />
 </a>
 
+<a href="https://github.com/Garcia-Christophe/Satellites-Balises">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Garcia-Christophe&repo=Satellites-Balises&theme=vue-dark" />
+</a>
+
 ## 💻 Langages et autres
 
 - ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
@@ -61,6 +65,9 @@ Passionné par le développement logiciel et d'applications web, je développe d
 
 ## 📚 Mes projets
 
+<a href="https://github.com/Garcia-Christophe/Satellites-Balises">
+  <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/50745647/Satellites-Balises.png?width=64" />
+</a>
 <a href="https://github.com/Garcia-Christophe/WeatherApp">
   <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/50596910/WeatherApp.png?width=64" />
 </a>
