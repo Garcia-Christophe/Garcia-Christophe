@@ -90,13 +90,13 @@ Passionné par le développement logiciel et d'applications web, je développe d
   <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/32700928/logo.png?width=64" />
 </a>
 <a href="https://github.com/Garcia-Christophe/Follow">
-  <img align="center" src="https://github.com/Garcia-Christophe/Garcia-Christophe/assets/74927492/add80a5d-8fc6-4482-af94-2007249c32ef" />
+  <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/31127659/logo.png?width=64" />
 </a>
 <a href="https://github.com/Garcia-Christophe/Borne-Recharge">
   <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/31835542/logoRond.png?width=64" />
 </a>
 <a href="https://github.com/Garcia-Christophe/Universites">
-  <img align="center" src="https://github.com/Garcia-Christophe/Garcia-Christophe/assets/74927492/1e214ae0-714c-4dfc-9658-8973d1f02acc" />
+  <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/30706453/logo.png?width=64" />
 </a>
 <a href="https://github.com/Garcia-Christophe/MesStocks">
   <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/25979562/logo.png?width=64" />
