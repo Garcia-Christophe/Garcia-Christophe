@@ -65,6 +65,9 @@ Passionné par le développement logiciel et d'applications web, je développe d
 
 ## 📚 Mes projets
 
+<a href="https://github.com/Garcia-Christophe/Protegodot">
+  <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/51349793/Protegodot.png?width=64" />
+</a>
 <a href="https://github.com/Garcia-Christophe/Satellites-Balises">
   <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/50745647/Satellites-Balises.png?width=64" />
 </a>
