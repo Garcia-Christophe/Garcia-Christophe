@@ -65,6 +65,12 @@ Passionné par le développement logiciel et d'applications web, je développe d
 
 ## 📚 Mes projets
 
+<a href="https://github.com/Garcia-Christophe/Minispec">
+  <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/53196134/Minispec.png?width=64" />
+</a>
+<a href="https://github.com/Garcia-Christophe/EveilDuPirate">
+  <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/51349793/Protegodot.png?width=64" />
+</a>
 <a href="https://github.com/Garcia-Christophe/Protegodot">
   <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/51349793/Protegodot.png?width=64" />
 </a>
