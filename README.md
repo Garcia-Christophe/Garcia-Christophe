@@ -17,12 +17,12 @@ Passionné par le développement logiciel et d'applications web, je développe d
 
 ## ✏ Projet(s) en cours
 
-<a href="https://github.com/Garcia-Christophe/WeatherApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Garcia-Christophe&repo=WeatherApp&theme=vue-dark" />
+<a href="https://github.com/Garcia-Christophe/Eveil-du-Pirate">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Garcia-Christophe&repo=Eveil-du-Pirate&theme=vue-dark" />
 </a>
 
-<a href="https://github.com/Garcia-Christophe/Satellites-Balises">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Garcia-Christophe&repo=Satellites-Balises&theme=vue-dark" />
+<a href="https://github.com/Garcia-Christophe/FitMarket">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Garcia-Christophe&repo=FitMarket&theme=vue-dark" />
 </a>
 
 ## 💻 Langages et autres
@@ -65,10 +65,13 @@ Passionné par le développement logiciel et d'applications web, je développe d
 
 ## 📚 Mes projets
 
+<a href="https://github.com/Garcia-Christophe/FitMarket">
+  <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/53807018/FitMarket.png?width=64" />
+</a>
 <a href="https://github.com/Garcia-Christophe/Minispec">
   <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/53196134/Minispec.png?width=64" />
 </a>
-<a href="https://github.com/Garcia-Christophe/EveilDuPirate">
+<a href="https://github.com/Garcia-Christophe/Eveil-du-Pirate">
   <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/51349793/Protegodot.png?width=64" />
 </a>
 <a href="https://github.com/Garcia-Christophe/Protegodot">
