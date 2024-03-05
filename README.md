@@ -67,7 +67,7 @@ Passionné par le développement logiciel et d'applications web, je développe d
 ## 📚 Mes projets
 
 <a href="https://github.com/Garcia-Christophe/MessageApp">
-  <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/51349793/Protegodot.png?width=64" />
+  <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/55563789/logo_50.png?width=64" />
 </a>
 <a href="https://github.com/Garcia-Christophe/FitMarket">
   <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/53807018/FitMarket.png?width=64" />
