@@ -46,25 +46,29 @@ Passionné par le développement logiciel et d'applications web, je développe d
 <br />
  
 - ![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Test-BackstopJS-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Test-JUnit-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Test-Katalon-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Test-Selenium-informational?style=flat&logoColor=white&color=2bbc8a)
 
 - ![](https://img.shields.io/badge/Environnement-VisualStudioCode-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Environnement-Eclipse-informational?style=flat&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Environnement-AndroidStudio-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Environnement-IntelliJIDEA-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Environnement-AndroidStudio-informational?style=flat&logoColor=white&color=2bbc8a)
 
 - ![](https://img.shields.io/badge/Outil-Git-informational?style=flat&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Outil-Méthode%20Agile%20Scrum-informational?style=flat&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Outil-GitHub-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Outil-GitLab-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Outil-GitHub-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Outil-Méthode%20Agile%20Scrum-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Outil-Gantt-informational?style=flat&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Outil-Suite%20Office-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Outil-Suite%20Google-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Outil-Suite%20Office-informational?style=flat&logoColor=white&color=2bbc8a)
 
 ## 📚 Mes projets
 
+<a href="https://github.com/Garcia-Christophe/MessageApp">
+  <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/51349793/Protegodot.png?width=64" />
+</a>
 <a href="https://github.com/Garcia-Christophe/FitMarket">
   <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/53807018/FitMarket.png?width=64" />
 </a>
