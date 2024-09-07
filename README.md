@@ -21,8 +21,8 @@ Passionné par le développement logiciel et d'applications web, je développe d
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Garcia-Christophe&repo=Eveil-du-Pirate&theme=vue-dark" />
 </a>
 
-<a href="https://github.com/Garcia-Christophe/FitMarket">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Garcia-Christophe&repo=FitMarket&theme=vue-dark" />
+<a href="https://github.com/Garcia-Christophe/MyLogiTrack">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Garcia-Christophe&repo=MyLogiTrack&theme=vue-dark" />
 </a>
 
 ## 💻 Langages et autres
@@ -66,6 +66,9 @@ Passionné par le développement logiciel et d'applications web, je développe d
 
 ## 📚 Mes projets
 
+<a href="https://github.com/Garcia-Christophe/MyLogiTrack">
+  <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/61498753/MyLogiTech.png?width=64" />
+</a>
 <a href="https://github.com/Garcia-Christophe/MessageApp">
   <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/55563789/logo_50.png?width=64" />
 </a>
